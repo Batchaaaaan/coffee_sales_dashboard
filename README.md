@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='https://github.com/Batchaaaaan/Excel_Projects/blob/main/coffee_sales/coffee_sales_dashboard_image.png?raw=true' alt='cs_dashboard' width='900'>
+  <img src='coffee_sales_dashboard_image.png' alt='cs_dashboard' width='900'>
 </div>
 
 # Overview
